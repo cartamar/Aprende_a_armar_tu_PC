@@ -1,0 +1,23 @@
+{
+  "name": "aprende_a_armar_tu_pc",
+  "version": "1.0.0",
+  "description": "Pagina para aprender a armar un PC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cartamar/Aprende_a_armar_tu_PC.git"
+  },
+  "keywords": [
+    "Armar",
+    "PC"
+  ],
+  "author": "Ing. Erik Ivan Gallardo Gutiérrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cartamar/Aprende_a_armar_tu_PC/issues"
+  },
+  "homepage": "https://github.com/cartamar/Aprende_a_armar_tu_PC#readme"
+}
