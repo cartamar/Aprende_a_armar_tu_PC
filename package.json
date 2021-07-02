@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/cartamar/Aprende_a_armar_tu_PC/issues"
   },
-  "homepage": "https://github.com/cartamar/Aprende_a_armar_tu_PC#readme"
+  "homepage": "https://github.com/cartamar/Aprende_a_armar_tu_PC#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
 }
